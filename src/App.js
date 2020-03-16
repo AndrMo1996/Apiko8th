@@ -3,7 +3,7 @@ import Search from "./components/Search";
 import FilmList from "./components/FilmList";
 import Film from "./components/Film";
 
-const API_KEY = "037fbea7443fa8bb3b94606240ae7ebd";
+const API_KEY = "d871a7de74ea353a5fb3ced86c71556a";
 
 class App extends React.Component {
   state = {
